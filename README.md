@@ -3,7 +3,7 @@
 ![Capture](https://github.com/user-attachments/assets/b0da3df2-4639-4050-9935-9bd218796850)
 
 
-Chào mừng bạn đến với trang GitHub của tôi! Tôi là [Tên của bạn], một người làm IT với niềm đam mê trong lĩnh vực công nghệ và kinh doanh. Hiện tại, tôi đang thực hiện một dự án bán giày trực tuyến, nhằm cung cấp trải nghiệm mua sắm tiện lợi và chất lượng cho người tiêu dùng.
+Chào mừng bạn đến với trang GitHub của tôi! Tôi là Dương Văn Thuận, một người làm IT với niềm đam mê trong lĩnh vực công nghệ và kinh doanh. Hiện tại, tôi đang thực hiện một dự án bán giày trực tuyến, nhằm cung cấp trải nghiệm mua sắm tiện lợi và chất lượng cho người tiêu dùng.
 
 ## Về tôi 👤
 
